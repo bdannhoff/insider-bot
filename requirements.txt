@@ -1,5 +1,5 @@
 alpaca-py>=0.15.0
-edgartools>=0.2.0
+edgar>=0.2.0
 python-dotenv>=1.0.0
 pytz>=2023.3
 yfinance>=0.2.28
